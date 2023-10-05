@@ -1,3 +1,3 @@
 # PrimeirosCodigosJava
 
-<p>Codigos que desenvolvi atraves de video aulas e testes proprios </p>
+<p>Codigos que desenvolvi atraves de video aula e testes proprios </p>
